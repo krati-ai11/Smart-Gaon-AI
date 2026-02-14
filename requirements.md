@@ -1,3 +1,9 @@
+# Smart Gaon AI
+
+Team Name: Desi Developer  
+Team Leader: Krati Katiyar  
+Team Member: Vansh Porwal
+
 # Smart Gaon AI - Requirements
 
 ## Problem Statement
